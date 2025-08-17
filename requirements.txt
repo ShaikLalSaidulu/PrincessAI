@@ -1,7 +1,4 @@
 fastapi
 uvicorn
-duckduckgo-search
-websockets==12.0
-aiohttp==3.9.1
+websockets
 requests
-beautifulsoup4
